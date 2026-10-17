@@ -10,8 +10,7 @@ trying [TBOSS](https://github.com/armandhammer/TBOSS), the open-source firmware.
 > These files are the manufacturer's original software, unmodified. They are **not**
 > open source and **not** covered by TBOSS's license. They are shared here with the
 > permission of the TheoryBoard's original developer so that existing boards can keep
-> being restored. If you hold rights to these files and object, please
-> [open an issue](../../issues) and they will be taken down.
+> being restored.
 
 ## Files
 
